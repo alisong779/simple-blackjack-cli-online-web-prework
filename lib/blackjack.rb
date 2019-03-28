@@ -47,9 +47,8 @@ def runner
   hit? 
   display_card_total
   until display_card_total > 21
-end   
-
-return end_game
+  return end_game
 end 
-end
+
+
 
