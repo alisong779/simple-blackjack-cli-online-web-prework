@@ -41,8 +41,5 @@ def hit?(card_total)
     card_total
 end
 
-def runner
-  
-  
-end
+
 end   
