@@ -39,6 +39,7 @@ def hit?(card_total)
    return deal_card + card_total
   elsif answer == "s"
    return card_total
+ end 
 end
 
 def runner
